@@ -1,0 +1,4 @@
+Employee Name      Salary
+
+tunne           255
+tullu          368
